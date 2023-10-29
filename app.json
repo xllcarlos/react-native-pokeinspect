@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "pokeinspect",
+    "slug": "pokeinspect",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
